@@ -3,7 +3,5 @@ title: Lebanese Red Cross, Red Crescent - an initial analysis
 description: Data Story about IFRC analysis
 show_downloads: True
 navigation:
-  - title: Home
-    url: /
-  - title: i
-    url: example
+  - title: ifrclebanalysis
+    url: analysis
